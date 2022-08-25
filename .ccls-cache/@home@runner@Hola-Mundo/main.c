@@ -5,6 +5,7 @@
 
 //Bibliotecas 
 #include <stdio.h>
+//
 
 //Funcion principal 
 int main(void) {
